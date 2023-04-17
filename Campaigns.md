@@ -1,3 +1,6 @@
+### More information about each campaign can be found at https://wiki.everybodyedits.com/Campaign
+
+
 | Abbreviation | Last Update | Name | Description
 | ------------ | ----| ----| ----| 
 | adv          | 2015-08-09 22:04:22 | Adventure League | You have beaten the Adventure League campaign!
