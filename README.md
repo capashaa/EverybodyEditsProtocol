@@ -1400,62 +1400,62 @@ Sent to un-like the world.
 ### <a id="model-effects">Effects</a>
 | Value | Image | Effect | BlockID
 | ----- | ------ | ------ | ------
-| `0`   | ![Jumpeffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/417.png) | Jump | 417 |
-| `1`   | ![Flyeffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/418.png) | Fly | 418 |
-| `2`   | ![Speedeffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/419.png) | Speed | 419 |
-| `3`   | ![Protectioneffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/420.png) | Protection | 420 |
-| `4`   | ![Curseeffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/421.png) | Curse | 421 |
-| `5`   | ![Zombieeffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/422.png) | Zombie | 422 |
-| `6`   | ![Teameffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/TeamNone.png) | Team | 423 |
-| `7`   | ![LowGravityeffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/453.png) | Low Gravity | 453 |
-| `8`   | ![FireEffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/fire.png) | fire | ... |
-| `9`   | ![MultiJumpeffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/461.png) | Multi Jump | 461 |
-| `10`  | ![Gravityeffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/1517.png) | Gravity Effect | 1517 |
-| `11`  | ![Poisoneffect](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/poisoneffect.png) | Poison Effect | 1584 |
+| `0`   | ![Jumpeffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/417.png) | Jump | 417 |
+| `1`   | ![Flyeffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/418.png) | Fly | 418 |
+| `2`   | ![Speedeffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/419.png) | Speed | 419 |
+| `3`   | ![Protectioneffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/420.png) | Protection | 420 |
+| `4`   | ![Curseeffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/421.png) | Curse | 421 |
+| `5`   | ![Zombieeffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/422.png) | Zombie | 422 |
+| `6`   | ![Teameffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/TeamNone.png) | Team | 423 |
+| `7`   | ![LowGravityeffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/453.png) | Low Gravity | 453 |
+| `8`   | ![FireEffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/fire.png) | fire | ... |
+| `9`   | ![MultiJumpeffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/461.png) | Multi Jump | 461 |
+| `10`  | ![Gravityeffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/1517.png) | Gravity Effect | 1517 |
+| `11`  | ![Poisoneffect](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/poisoneffect.png) | Poison Effect | 1584 |
 
 ### <a id="model-keys">Key names</a>
 | Image | Value
 | ----- | ----------
-| ![Keyred](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/6.png) |  red
-| ![Keygreen](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/7.png) |  green
-| ![Keyblue](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/8.png) |  blue
-| ![Keycyan](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/408.png) |  cyan
-| ![Keymagenta](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/409.png) |  magenta
-| ![Keyyellow](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/410.png) |  yellow
+| ![Keyred](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/6.png) |  red
+| ![Keygreen](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/7.png) |  green
+| ![Keyblue](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/8.png) |  blue
+| ![Keycyan](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/408.png) |  cyan
+| ![Keymagenta](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/409.png) |  magenta
+| ![Keyyellow](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/410.png) |  yellow
 
 ### <a id="model-teams">Teams</a>
 
 | Image | Value | Team Color
 | ----- | ----- | ----------
-| ![TeamNone](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/TeamNone.png) | `0`   | None
-| ![TeamRed](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/TeamRed.png) | `1`   | Red
-| ![TeamBlue](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/TeamBlue.png) | `2`   | Blue
-| ![TeamGreen](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/TeamGreen.png) | `3`   | Green
-| ![TeamCyan](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/TeamCyan.png) | `4`   | Cyan
-| ![TeamMagenta](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/TeamMagenta.png) | `5`   | Magenta
-| ![TeamYellow](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/TeamYellow.png) | `6`   | Yellow
+| ![TeamNone](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/TeamNone.png) | `0`   | None
+| ![TeamRed](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/TeamRed.png) | `1`   | Red
+| ![TeamBlue](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/TeamBlue.png) | `2`   | Blue
+| ![TeamGreen](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/TeamGreen.png) | `3`   | Green
+| ![TeamCyan](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/TeamCyan.png) | `4`   | Cyan
+| ![TeamMagenta](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/TeamMagenta.png) | `5`   | Magenta
+| ![TeamYellow](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/TeamYellow.png) | `6`   | Yellow
 
 ### <a id="model-npcid">NPC</a>
 
 | NPC Picture  | NPC Name | NPC Block ID
 | ---- | ----- | ----------
-| ![smile](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcHappy.png)  | `Smile`   | `1550`
-| ![sad](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcSad.png)   | `Sad` | `1551`
-| ![old](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcOld.png)   | `Old` | `1552`
-| ![angry](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcAngry.png)   | `Angry` | `1553`
-| ![slime](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcSlimey.png)   | `Slime` | `1554`
-| ![robot](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcRobot.png)   | `Robot` | `1555`
-| ![knight](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcKnight.png)   | `Knight` | `1556`
-| ![meh](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcMeh.png)   | `Meh` | `1557`
-| ![cow](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcCow.png)   | `Cow` | `1558`
-| ![frog](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcFrog.png)   | `Frog` | `1559`
-| ![bruce](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcBruce.png)   | `Bruce` | `1570`
-| ![starfish](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcStarfish.png)   | `Starfish` | `1569`
-| ![computer](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcComputer.png)   | `Computer` | `1571`
-| ![skeleton](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcskeleton.png)   | `Skeleton` | `1572`
-| ![zombie](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npczombie.png)   | `Zombie` | `1573`
-| ![ghost](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcghost.png)   | `Ghost` | `1574`
-| ![astronaut](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcastro.png)   | `Astronaut` | `1575`
-| ![santa](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcsanta.png)   | `Santa` | `1576`
-| ![snowman](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcsnowman.png)   | `Snowman` | `1577`
-| ![walrus](https://github.com/capasha/EverybodyEditsProtocoll/blob/master/images/npcwalrus.png)   | `Walrus` | `1578`
+| ![smile](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcHappy.png)  | `Smile`   | `1550`
+| ![sad](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcSad.png)   | `Sad` | `1551`
+| ![old](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcOld.png)   | `Old` | `1552`
+| ![angry](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcAngry.png)   | `Angry` | `1553`
+| ![slime](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcSlimey.png)   | `Slime` | `1554`
+| ![robot](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcRobot.png)   | `Robot` | `1555`
+| ![knight](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcKnight.png)   | `Knight` | `1556`
+| ![meh](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcMeh.png)   | `Meh` | `1557`
+| ![cow](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcCow.png)   | `Cow` | `1558`
+| ![frog](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcFrog.png)   | `Frog` | `1559`
+| ![bruce](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcBruce.png)   | `Bruce` | `1570`
+| ![starfish](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcStarfish.png)   | `Starfish` | `1569`
+| ![computer](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcComputer.png)   | `Computer` | `1571`
+| ![skeleton](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcskeleton.png)   | `Skeleton` | `1572`
+| ![zombie](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npczombie.png)   | `Zombie` | `1573`
+| ![ghost](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcghost.png)   | `Ghost` | `1574`
+| ![astronaut](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcastro.png)   | `Astronaut` | `1575`
+| ![santa](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcsanta.png)   | `Santa` | `1576`
+| ![snowman](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcsnowman.png)   | `Snowman` | `1577`
+| ![walrus](https://github.com/capashaa/EverybodyEditsProtocol/blob/master/images/npcwalrus.png)   | `Walrus` | `1578`
