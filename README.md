@@ -1379,7 +1379,6 @@ Sent to un-like the world.
 
 ### <a id="model-badges">Badges</a>
 
-
 ### <a id="model-campaign-status">Campaign Status</a>
 
 | Value | Name
